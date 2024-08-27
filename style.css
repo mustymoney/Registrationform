@@ -1,0 +1,41 @@
+body {
+    background-color: gray;
+    }
+    div {
+    border-bottom: 1px solid #efefef;
+    padding-bottom: 10px;
+    width: 260px;
+    }
+    fieldset{
+        width: 500px;
+        background-color: rgb(253, 207, 0);
+        border: 2px solid;
+        color: rgb(0, 0, 0);
+        border-radius: 15px;
+        margin: 10px auto 10px auto;
+    }
+    legend{
+        background-color: aquamarine;
+        border: 1px solid;
+        border-radius: 12px;
+        padding: 10px;
+    }
+    title {
+    float: left;
+    width: 100px;
+    text-align: right;
+    padding-right: 10px;
+    }
+    input[type="radio"] label {
+    float: none;
+    }
+    .one {
+    float: left;
+    border-bottom: 1px solid #efefef;
+    text-align: right;
+    }
+    button{
+        width: 120px;
+        height: 50px;
+        color: aquamarine;
+    }
